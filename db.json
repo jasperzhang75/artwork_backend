@@ -3421,19 +3421,17 @@
       "title": "Platter"
     }
   ],
-  "favourites": [
-  
-  ],
+  "favourites": [],
   "comments": [
     {
-      "text": "Modified comment",
-      "artworkId": 27992,
-      "id": 1
+      "id": 1,
+      "artworkId": "64729",
+      "text": "ddd"
     },
     {
-      "text": "Other comment",
-      "artworkId": 64729,
-      "id": 2
+      "id": 2,
+      "artworkId": "27992",
+      "text": "fdsfdaf"
     }
   ]
 }
