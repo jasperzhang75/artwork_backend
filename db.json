@@ -37,18 +37,6 @@
       "title": "Water Lily Pond"
     },
     {
-      "_score": 114.2127,
-      "short_description": null,
-      "date_start": 1889,
-      "artist_display": "Auguste Rodin\nFrench, 1840–1917",
-      "description": null,
-      "date_end": 1889,
-      "artist_title": "Auguste Rodin",
-      "id": 719,
-      "image_id": "d0a72b06-f1ee-4464-d58c-5e39bc0534b3",
-      "title": "A Burgher of Calais (Jean d'Aire)"
-    },
-    {
       "_score": 114.040695,
       "short_description": "Claude Monet painted the 18 works in his Mornings on the Seine series from a flat-bottomed boat anchored to the riverbank where the Epte River flows into the Seine. There, as the light changed from dawn to day, he worked on one canvas after another. To keep them in order, he numbered them, placed them in grooves built into the boat, and had the gardener whom he enlisted as his assistant hand them to him.",
       "date_start": 1897,
@@ -3385,18 +3373,6 @@
       "title": "At the River's Bend (On the River II)"
     },
     {
-      "_score": 24.851961,
-      "short_description": null,
-      "date_start": 1875,
-      "artist_display": "Paul Gauguin\nFrench, 1848–1903",
-      "description": "<p>When Paul Gauguin first exhibited this doll-like figurine at the Sixth Impressionist Exhibition in 1881, critics disparaged what they considered its simplistic coloring and crudely whittled surface. The avant-garde set, however, celebrated its stylized form. Gauguin’s younger colleague <a href=\"https://www.artic.edu/artists/40810/georges-seurat\">Georges Seurat</a>, who may have seen the sculpture at the exhibition and in Gauguin’s studio, presented similarly pared-down, columnar figures in <a href=\"https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884\"><em> A Sunday on La Grande Jatte—1884</em></a> only a few years later.</p>\n<p>Gauguin came to painting through sculpture and preferred to work with wood, an unusual artistic medium at the time in part because of its humble nature. He sought to expand the Impressionists’ narrow definition of fine art to include objects—like this sculpture—that might be dismissed as decoration or craft.</p>\n",
-      "date_end": 1885,
-      "artist_title": "Paul Gauguin",
-      "id": 229059,
-      "image_id": "b6903e0d-dae2-d313-d112-61bbf7a8472f",
-      "title": "Woman Strolling"
-    },
-    {
       "_score": 23.52524,
       "short_description": null,
       "date_start": 1907,
@@ -3407,18 +3383,6 @@
       "id": 253608,
       "image_id": "07023e68-f499-0f9c-68e9-89bb6729753b",
       "title": "Bon Voyage"
-    },
-    {
-      "_score": 19.385641,
-      "short_description": null,
-      "date_start": 1869,
-      "artist_display": "Designed by Félix Bracquemond (French, 1833–1914)\nMade by Haviland & Co., Auteuil Studio, Paris (French, 1872-1886)",
-      "description": "<p>This monumental ceramic platter illustrates the interconnectedness of the fine and applied arts in France during the era of radical artistic innovation around 1870. It was created by Félix Bracquemond, a printmaker and designer who was deeply embedded in the Parisian avant-garde. The thickly modeled stoneware form is enameled with an arrestingly bright landscape in yellow, orange, red and green. At the center of the composition a vibrant, craggy mountain rises above an ominously dark waterfall. The boldly delineated landscape elements recall Japanese woodblock prints, which Bracquemond admired.</p>\n",
-      "date_end": 1879,
-      "artist_title": "Félix Henri Bracquemond",
-      "id": 261781,
-      "image_id": "3afa72c6-732c-66bb-d9c3-c5a16bb32aed",
-      "title": "Platter"
     }
   ],
   "favourites": [],
